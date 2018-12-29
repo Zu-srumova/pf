@@ -30,6 +30,7 @@ let losovatko = () => {
 let nenasyta = () => {
     prani.innerHTML = nenasytaYouWish;
     button.innerHTML = nenasytaButton;
+    button.style.cursor = "auto";
 }
 
 button.onclick = () => {
