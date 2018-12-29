@@ -4,17 +4,18 @@ const prani = document.getElementById('you-wish');
 let youWish = ['Nebojte se vystoupit z davu.<br><span class="you-wish-alt">Nebo aspoň z&nbsp;vlaku.<br>V Roztokách.<br>A přijít na kafe!</span>',
 'Hodně kreativity a ještě více odvahy!',
 'Spoustu objevů a nečekaných spojení!',
-'Ať vám nedojdou baterky!',
-'Pěkně kompaktní rok 2019!<br><span class="you-wish-alt">(S&nbsp;pomocí trochy gafy a&nbsp;tavné pistole je kompaktní kde&nbsp;co.)</span>', 
+'Ať vám nedojdou baterky!<br><span class="you-wish-alt">(Dinosaurus vpravo se právě nabíjí. Vemte si z něj občas příklad.)</span>',
+'Bohatý a rozmanitý rok 2019!<br><span class="you-wish-alt">(S&nbsp;pomocí trochy gafy a&nbsp;tavné pistole utvoří i nejrostodivnější elementy harmonický celek.)</span>', 
 'Mnoho skvělých nápadů!<br><span class="you-wish-alt">(I pitomých nápadů. Jednak jsou živnou půdou pro ty skvělé, jednak se pitomost občas mění v&nbsp;genialitu.)</span>',
 'Půvabný a vybarvený rok 2019!<br><span class="you-wish-alt">Hlavně se z toho nevobkreslit.</span>',
-'Ať nevyhynete!',
+'Ať nevyhynete!<br><span class="you-wish-alt">(I býložravci mohou někdy ukázat zuby!)</span>',
 'Skvělou smečku v novém roce!<br><span class="you-wish-alt">Hlavně ať vás neuštve.</span>',
-'Spoustu zábavy a mnohá dobrodružstvíčka!',
-'Početné humory!',
+'Spoustu zábavy a mnohá dobrodružstvíčka!<br><span class="you-wish-alt">Ať vás to v příštím roce baví.</span>',
+'Početné humory!<br><span class="you-wish-alt">Alespoň jeden na kažný den!</span>',
+'Nechť vás síla provází!<br><span class="you-wish-alt">Konkrétně síla alespoň tří dinosaurů.</span>',
 ];
 
-let nenasytaYouWish = "A hlavně hodně skromnosti!";
+let nenasytaYouWish = 'A hlavně hodně skromnosti!<br><span class="you-wish-alt">Pět přání nestačilo?</span>';
 
 let nenasytaButton = "Nenasyto.";
 
