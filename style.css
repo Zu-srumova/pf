@@ -13,7 +13,7 @@ html {
 }
 
 body {
-    background-color: #dfd4d2;
+    background-color: #DCECF6;
     margin: 0;
     padding: 0;
 }
@@ -26,20 +26,20 @@ h1 {
     margin: 0.25em;
     margin-left: 0;
     font-size: 3rem;
-    color: #7c0b08;
+    color: #4A172B;
 }
 
 p {
     line-height: 1.5;
-    color: #210401;
+    color: #0D0C13;
 }
 
 a {
-    color: #3a506b;
+    color: #3A757E;
 }
 
 .pf {
-    max-width: 400px;
+    max-width: 500px;
     margin-right: auto;
     margin-left: auto;
 }
@@ -47,17 +47,18 @@ a {
 .vyrobek {
     max-width: 100%;
     height: auto;
-    border: 5px solid #D38027
+    border: 5px solid #959084
 }
 
 .you-wish {
-    color: #06380C;
+    color: #3A757E;
     font-weight: 700;
     font-size: 1.25rem;
 }
 
 .you-wish-alt {
     font-weight: 400;
+    font-size: 1rem;
 }
 
 .button {
@@ -66,15 +67,15 @@ a {
     padding: 0.5rem;
     width: 10em;
     height: 43px;
-    background-color: #D38027;
+    background-color: #959084;
     font-size: 1.25rem;
     text-align: center;
-    color: #210401;
+    color: #0D0C13;
     cursor: pointer;
 
 }
 
 .podpis {
-    text-align: right;
-    color: #7c0b08;
+    text-align: center;
+    color: #4A172B;
 }

@@ -6,8 +6,13 @@ let youWish = ['Nebojte se vystoupit z davu.<br><span class="you-wish-alt">Nebo 
 'Spoustu objevů a nečekaných spojení!',
 'Ať vám nedojdou baterky!',
 'Pěkně kompaktní rok 2019!<br><span class="you-wish-alt">(S&nbsp;pomocí trochy gafy a&nbsp;tavné pistole je kompaktní kde&nbsp;co.)</span>', 
-'Mnoho skvělých nápadů!<br><span class="you-wish-alt">(I pitomých nápadů. Jednak jsou živnou půdou pro ty skvělé, jednak se pitomost občas mění v&nbsp;genialitu)</span>',
-'Půvabný a vybarvený rok 2019!<br><span class="you-wish-alt">Hlavně se z toho nevobkreslit.</span>'];
+'Mnoho skvělých nápadů!<br><span class="you-wish-alt">(I pitomých nápadů. Jednak jsou živnou půdou pro ty skvělé, jednak se pitomost občas mění v&nbsp;genialitu.)</span>',
+'Půvabný a vybarvený rok 2019!<br><span class="you-wish-alt">Hlavně se z toho nevobkreslit.</span>',
+'Ať nevyhynete!',
+'Skvělou smečku v novém roce!<br><span class="you-wish-alt">Hlavně ať vás neuštve.</span>',
+'Spoustu zábavy a mnohá dobrodružstvíčka!',
+'Početné humory!',
+];
 
 let nenasytaYouWish = "A hlavně hodně skromnosti!";
 
